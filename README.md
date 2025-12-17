@@ -1,2 +1,2 @@
 # InformationSystems
-test repo for InformationSystems course
+test repo for information systems course
